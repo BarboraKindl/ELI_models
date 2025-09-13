@@ -1,0 +1,6 @@
+/.venv
+
+# datasets
+/beam_dataset
+/1D_spec
+/2D_spec
